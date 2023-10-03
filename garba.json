@@ -1,0 +1,65 @@
+{
+    "title": "Garba - Full Song",
+    "songs": [
+        {
+            "title": "Dholida - Gangubai",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dholida.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1367_resize2x_250x250.webp"
+        },
+        {
+            "title": "Dhol Nagada",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dhol+Nagada.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1364_resize2x_250x250.webp"
+        },
+        {
+            "title": "Nagada Sang Dhol Baje",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Nagada+Sang+Dhol+Baje.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1363_resize2x_250x250.webp"
+        },
+        {
+            "title": "Chandaliyo Ugyo Re",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Chandaliyo+Ugyo+Re.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1366_resize2x_250x250.webp"
+        },
+        {
+            "title": "Dakla - Garba",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Dakla+2+Garba.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1365_resize2x_250x250.webp"
+        },
+        {
+            "title": "Pari Hoon Main DJ Remix",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Pari+Hoon+Main+DJ+Remix.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/74_resize2x_250x250.webp"
+        },
+        {
+            "title": "Non Stop Garba Falguni Pathak",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Non+Stop+Garba.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/1368_resize2x_250x250.webp"
+        },
+        {
+            "title": "Kinjal Dave Garbe Ramvane Nonstop Garba",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Kinjal+Dave+Garbe+Ramvane+Nonstop+Garba+Navratri+Special+Album.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/81xoMpH1R0L._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "title": "Navratri Special Bollywood Gujarati Latest Dandiya Mix Garba",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Navratri+Special+Bollywood+Gujarati+Latest+Dandiya+Mix+Garba+2023.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103.jpg"
+        },
+        {
+            "title": "Sharad Poonam Garba",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Sharad+Poonam+Garba+Special+Non+Stop+Garba.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/crop_480x480_241103.jpg"
+        }
+    ]
+}

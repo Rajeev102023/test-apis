@@ -1,0 +1,47 @@
+{
+    "title": "Aarti - Full Song",
+    "songs": [
+        {
+            "title": "Jay Adhyashakti Aarti - Ambe Maa Aarti ",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jay+Adhyashakti++Aarti++Aarti+With+Lyrics++%E0%AA%85%E0%AA%AC%E0%AA%9C+%E0%AA%AE%E0%AA%A6%E0%AA%B0+%E0%AA%A8+%E0%AA%86%E0%AA%B0%E0%AA%A4++Navratri+Special.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/maxresdefault.jpg"
+        },
+        {
+            "title": "Jay Adhyashakti Aarti - Ambe Maa Aarti ",
+            "subTitle": "By Kinjal Dave",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jay+Adhyashakti+Aarti+-+Ambe+Maa+Aarti+-+Kinjal+Dave+-+KD+Digital.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/hqdefault1.jpg"
+        },
+        {
+            "title": "Vishvambhari Stuti - Kinjal Dave",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Vishvambhari+Stuti+-+Kinjal+Dave+-+KD+Digital.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/ab67616d0000b273ac2750bf7bf070b9e33a2a49.jpeg"
+        },
+        {
+            "title": "Aarti Ambe Tu Hai Jagdambe Kali",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Aarti+Ambe+Tu+Hai+Jagdambe+Kali+With+Lyrics+By+Anuradha+Paudwal+%5BFull+Video+Song%5D+I+Aarti.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/ambe_tu_hai_jagdambe_kali_Aarti.webp"
+        },
+        {
+            "title": "Jai Ambe Gauri Aarti",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jai+Ambe+Gauri+Aarti.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/Jai-Ambe-Gauri-Aarti-Hindi-2019-20191003124025-500x500.jpg"
+        },
+        {
+            "title": "Jai Santoshi Mata",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Jai+Santoshi+Mata+Aarti+By+Anuradha+Paudwal+%5BFull+Video+Song%5D+-+Aartiyan.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/jai-santoshi-mata-tripti-shakya_1658990198.jpg"
+        },
+        {
+            "title": "ॐ जय लक्ष्मी माता",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Song/Laxmi+Mata+Aarti++Alka+Yagnik++Om+Jai+Laxmi+Mata++Lakshmi+Mata+Aarti.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/SongImage/0.jpg"
+        }
+    ]
+}

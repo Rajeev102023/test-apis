@@ -1,0 +1,29 @@
+{
+    "title": "Instrumental",
+    "songs": [
+        {
+            "title": "Navratri special ( flute )",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Navratri+special+(+flute+).mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg"
+        },
+        {
+            "title": "Chogada Tara - BGM",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chogada+Tara+-+BGM+(Navratri+Special).mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-500x500.jpg"
+        },
+        {
+            "title": "Garba Beats - Navratri Special",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Garba+Beats+-+Navratri+Special.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-ramleela-movie-garba.jpg"
+        },
+        {
+            "title": "Mahishasura Mardini",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Mahishasura+Mardini+!+Navratri+!+God.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/290018cf9919170e0766780b44c4506c.jpg"
+        }
+    ]
+}

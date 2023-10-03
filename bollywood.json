@@ -1,0 +1,41 @@
+{
+    "title": "Bollywood Ringtone",
+    "songs": [
+        {
+            "title": "Ramleela Garba - Nagada Sang Dhol",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Nagada+-+Garba+(Navratri+Special).mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/wp7417040.jpg"
+        },
+        {
+            "title": "Radha kaise na jale",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Radha+Kaise+Na+Jale+-+Lagaan.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Lagaan-Hindi-2001-20190603122008-500x500.jpg"
+        },
+        {
+            "title": "Nagada Sang Dhol",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Garba+-+Nagada+Sang+Dhol+-+Navratri+Special+!+Hindi.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg"
+        },
+        {
+            "title": "Chogada Tara - BGM",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Chogada+Tara+-+BGM+(Navratri+Special).mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Loveyatri-A-Journey-Of-Love-Hindi-2018-20181003-500x500.jpg"
+        },
+        {
+            "title": "Garba Beats - Navratri Special",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Garba+Beats+-+Navratri+Special.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/HD-wallpaper-ramleela-movie-garba.jpg"
+        },
+        {
+            "title": "Garba Beats - Navratri Special",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ramleela+Bgm.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/unnamed.jpg"
+        }
+    ]
+}

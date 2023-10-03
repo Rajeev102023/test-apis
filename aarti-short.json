@@ -1,0 +1,29 @@
+{
+    "title": "Aarti Ringtone",
+    "songs": [
+        {
+            "title": "Jay Adhya Shakti",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Jay-adhya-shakti-Ringtones-Download.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/Jay-Aadhya-Shakti-Aarti-Gujarati-2020-20201012134520-500x500.jpg"
+        },
+        {
+            "title": "Maa Shailputri",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Shailputri+-+Navratri+!+Hindi.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/desktop-wallpaper-400-maa-durga-ideas-in-2021-durga-mata-murti-thumbnail.jpg"
+        },
+        {
+            "title": "Jay Mataji",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Maa+Durga+-+Navratri+-+Sonu+Nigam+!+Hindi.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/71%2BCkmPEIUL._SL1500___79290.jpg"
+        },
+        {
+            "title": "Ambe Maa Ni ",
+            "subTitle": "",
+            "songLink": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Rington/Ambe+Maa+Ni+%E0%A5%A4+Navratri+Special.mp3",
+            "mainImage": "https://navaratri-app.s3.ap-south-1.amazonaws.com/Image/images.jpeg"
+        }
+    ]
+}
